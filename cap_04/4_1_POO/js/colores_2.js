@@ -1,0 +1,1 @@
+document.write("<h1>Esto es texto escrito en la página</h1>")
