@@ -1,0 +1,1 @@
+document.body.oncontextmenu = alert("NO AGA ESO.");
