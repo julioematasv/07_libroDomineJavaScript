@@ -24,3 +24,5 @@ document.write(nombres[2] + " " + apellidos[2] +  "<br>");
 document.write(nombres[3] + " " + apellidos[3] +  "<br>");
 document.write(nombres[4] + " " + apellidos[4] +  "<br>");
 document.write(nombres[5] + " " + apellidos[5] +  "<br>");
+
+alert("La matriz Nombres tiene " + nombres.length + " elementos.")
